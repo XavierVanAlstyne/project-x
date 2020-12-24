@@ -17,7 +17,7 @@ var object = ['this', 'is', 'an', 'object'];
 console.log(typeof object);
 var boolean = true;
 console.log(typeof boolean);
-var undefined;
+var undefined = undefined;
 console.log(typeof undefined);
 var nul = null;
 console.log(typeof nul);

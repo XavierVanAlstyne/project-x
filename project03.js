@@ -23,40 +23,58 @@ const kiwi = "🥝"
 /* Package The Fruit */
 const fruits = {
   apple:{
-    image:apple,
-    price:"$0.99"
+    id: 1,
+    image: apple,
+    name: "apple",
+    price: 0.99
   },
   banana:{
-    image:banana,
-    price:"$2.79"
+    id: 2,
+    image: banana,
+    name: "banana",
+    price: 2.79
   },
   grapes:{
-    image:grapes,
-    price:"$2.39"
+    id: 3,
+    image: grapes,
+    name: "grapes",
+    price: 2.39
   },
   pineapple:{
-    image:pineapple,
-    price:"$2.99"
+    id: 4,
+    image: pineapple,
+    name: "pineapple",
+    price: 2.99
   },
   watermelon:{
-    image:watermelon,
-    price:"$2.99"
+    id: 5,
+    image: watermelon,
+    name: "watermelon",
+    price: 2.99
   },
   lemon:{
-    image:lemon,
-    price:"$1.29"
+    id: 6,
+    image: lemon,
+    name: "lemon",
+    price: 1.29
   },
   pear:{
-    image:pear,
-    price:"$0.89"
+    id: 7,
+    image: pear,
+    name: "pear",
+    price: 0.89
   },
   cherries:{
-    image:cherries,
-    price:"$1.29"
+    id: 8,
+    image: cherries,
+    name: "pear",
+    price: 1.29
   },
   kiwi:{
-    image:kiwi,
-    price:"$0.99"
+    id: 9,
+    image: kiwi,
+    name: "kiwi",
+    price: 0.99,
   }
 }
 
